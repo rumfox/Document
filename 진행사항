@@ -1,11 +1,18 @@
 
-test
 
+
+
+test
+----------------
+텐서플로우 설치
+----------------
 -bash: docker: command not found
 shell> pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.1-cp27-none-linux_x86_64.whl
 
 https://lux.cuenet.kr/100
 
+----------------
+머신러닝 특이점
 ----------------
 
 머신러닝과 전통적 통계학의 간략한 특징 비교
