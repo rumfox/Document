@@ -5,6 +5,11 @@
 20/11/16 13:10
 
 20/11/16 13:10 -- branch-test checkout, commit test 
+<<<<<<< HEAD
 
 20/11/16 13:37 -- branch-test checkout, commit test 2 
- 
+
+20/11/16 13:44 -- branch-test checkout, commit test 3 
+  
+=======
+>>>>>>> parent of 24ba397... 커밋/풀/브랜치 테스트
