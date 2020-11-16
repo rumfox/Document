@@ -4,7 +4,6 @@
 
 20/11/16 13:10
 
-<<<<<<< HEAD
 20/11/16 13:10 -- branch-test checkout, commit test 
 <<<<<<< HEAD
 
@@ -18,5 +17,3 @@
 =======
   
 >>>>>>> 13afa76e8d405da0e0d3d634f7a9ba9a0ddeedac
-=======
->>>>>>> parent of 650694c... test-branch에서 커밋
