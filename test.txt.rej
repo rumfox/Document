@@ -1,0 +1,9 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -5,3 +5,6 @@
+ 20/11/16 13:10
+ 
+ 20/11/16 13:10 -- branch-test checkout, commit test 
++
++20/11/16 13:37 -- branch-test checkout, commit test 2 
++ 
+\ No newline at end of file
